@@ -61,7 +61,6 @@ If any functionality is added that could collect data, users will be informed ex
 
 If you have questions about this privacy policy or Head Killer’s data practices, contact us at:
 
-Email: [your email here]
-Website: [optional website here]
+Email: HeadKillCustoms@gmail.com
 
 Summary: Head Killer is a fully offline, local-use app. No personal or identifiable user data is collected or shared.
